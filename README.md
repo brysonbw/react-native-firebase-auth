@@ -128,3 +128,5 @@ $ yarn android
 # or
 $ yarn start
 ```
+
+## Reach Out And [Message Me On Discord](https://discordapp.com/users/805262289119739924)
