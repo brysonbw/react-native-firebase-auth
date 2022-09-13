@@ -79,21 +79,6 @@
   - [yup](https://github.com/jquense/yup)
   - [formik](https://github.com/jaredpalmer/formik)
 
-## Download & Run App
-
-### Expo Store
-Before running the app with Expo/Expo Go you **must** do the following:
-  
-1) Download [Expo Go](https://expo.dev/client) from Google Play or Apple Store
-
-2) Proceed to create an account and login within Expo Go
-
-3) After creating an account, logging in, and downloading Expo Go on your device:
-
-     - Visit this link https://expo.dev/@brysonbw/firebase-auth-app
-
-     - Follow set instructions once on the page and run app
-
 ## Running Locally
 ```bash
 $ git clone git@github.com:brysonbw/react-native-firebase-auth.git
