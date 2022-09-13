@@ -82,6 +82,8 @@
 ## Download & Run App
 
 ### Expo Store
+>Downloading with **Expo/Expo Go is only available for Android devices**. If you would like to run on iOS devices try cloning repository and running locally with a physical iOS device and/or emulator.
+
 Before running the app with Expo/Expo Go you **must** do the following:
   
 1) Download [Expo Go](https://expo.dev/client) from Google Play or Apple Store
